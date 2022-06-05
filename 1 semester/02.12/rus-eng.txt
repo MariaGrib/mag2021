@@ -1,0 +1,11 @@
+близкий	close, familiar
+закрытый	close
+знакомый	familiar
+значение	mean
+ограниченный	narrow
+подлый	mean
+привычный	familiar
+скупой	mean, tight
+среднее	mean
+тесный	tight, close, narrow
+узкий	tight, narrow
